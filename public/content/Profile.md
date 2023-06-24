@@ -1,8 +1,8 @@
 ## Site Name
-- Portable Portfolio
+- Silas Maughan
 
 ## Header
-- Hi, my name is Eldora. 
+- Hi, my name is Silas. 
 - I'm a software engineer.
 - Short Description Here.
 
@@ -16,4 +16,4 @@ Write your "Contact" section here.
 - Email: username@gmail.com
 
 ## Logo
-- EB
+- SM
