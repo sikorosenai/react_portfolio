@@ -2,18 +2,18 @@
 - Silas Maughan
 
 ## Header
-- Hi, my name is Silas. 
+- Hi, I'm Silas. 
 - I'm a software engineer.
-- Short Description Here.
+- I do everything. Everything.
 
 ## About
 Write your "About" section here.
 
 ## Contact
-Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+I love hearing about cool stuff.
+- LinkedIn: https://www.linkedin.com/in/silas-maughan1123581321/
+- GitHub: https://github.com/sikorosenai
+- Email: silas.maughan@gmail.com
 
 ## Logo
 - SM
